@@ -41,8 +41,7 @@ public class ReportControllersTest {
     @InjectMocks
     private ReportControllersTest reportController;
 
-//    ReportModel obj1 = new ReportModel(1L,"kim","01",1,"test","1234");
-//    ReportModel obj2 = new ReportModel(2L,"kim","02",23,"test","4321");
+
 
     @Before
     private void setUp(){
